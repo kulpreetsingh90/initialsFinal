@@ -1,0 +1,22 @@
+/*
+Theme Name: Twenty Sixteen Child Theme
+Theme URI: 
+Description: A child theme of Twenty Sixteen
+Author: <your name>
+Author URI: <your website>
+Template: twentysixteen
+Version: 0.1.0
+*/
+
+.entry-title {
+
+    font-size: 1.5em;
+}
+
+.post-navigation .post-title, .entry-title, .comments-title {
+   font-size: 1rem;
+}
+
+.entry-footer a {
+    display: none;
+}
