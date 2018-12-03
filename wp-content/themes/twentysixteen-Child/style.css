@@ -17,8 +17,13 @@ Version: 0.1.0
    font-size: 1rem;
 }
 
+.entry-footer a {
+    display: none;
+}
+
 a {
     color: black;
     text-decoration: none;
 }
+
 
