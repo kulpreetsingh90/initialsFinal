@@ -10,13 +10,11 @@ Version: 0.1.0
 
 .entry-title {
 
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 .post-navigation .post-title, .entry-title, .comments-title {
    font-size: 1rem;
 }
 
-.entry-footer a {
-    display: none;
-}
+
