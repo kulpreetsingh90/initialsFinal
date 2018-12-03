@@ -17,4 +17,8 @@ Version: 0.1.0
    font-size: 1rem;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+}
 
