@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 03, 2018 at 09:09 PM
+-- Generation Time: Dec 03, 2018 at 09:38 PM
 -- Server version: 5.7.21
 -- PHP Version: 7.1.19
 
@@ -223,7 +223,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (122, '_site_transient_update_plugins', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1543856127;s:7:\"checked\";a:2:{s:19:\"akismet/akismet.php\";s:5:\"4.0.8\";s:9:\"hello.php\";s:3:\"1.7\";}s:8:\"response\";a:1:{s:19:\"akismet/akismet.php\";O:8:\"stdClass\":12:{s:2:\"id\";s:21:\"w.org/plugins/akismet\";s:4:\"slug\";s:7:\"akismet\";s:6:\"plugin\";s:19:\"akismet/akismet.php\";s:11:\"new_version\";s:3:\"4.1\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/akismet/\";s:7:\"package\";s:54:\"https://downloads.wordpress.org/plugin/akismet.4.1.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:59:\"https://ps.w.org/akismet/assets/icon-256x256.png?rev=969272\";s:2:\"1x\";s:59:\"https://ps.w.org/akismet/assets/icon-128x128.png?rev=969272\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:61:\"https://ps.w.org/akismet/assets/banner-772x250.jpg?rev=479904\";}s:11:\"banners_rtl\";a:0:{}s:6:\"tested\";s:3:\"5.0\";s:12:\"requires_php\";b:0;s:13:\"compatibility\";O:8:\"stdClass\":0:{}}}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:1:{s:9:\"hello.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:25:\"w.org/plugins/hello-dolly\";s:4:\"slug\";s:11:\"hello-dolly\";s:6:\"plugin\";s:9:\"hello.php\";s:11:\"new_version\";s:3:\"1.6\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/hello-dolly/\";s:7:\"package\";s:58:\"https://downloads.wordpress.org/plugin/hello-dolly.1.6.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:63:\"https://ps.w.org/hello-dolly/assets/icon-256x256.jpg?rev=969907\";s:2:\"1x\";s:63:\"https://ps.w.org/hello-dolly/assets/icon-128x128.jpg?rev=969907\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:65:\"https://ps.w.org/hello-dolly/assets/banner-772x250.png?rev=478342\";}s:11:\"banners_rtl\";a:0:{}}}}', 'no'),
 (123, '_site_transient_timeout_browser_85ea41d9d708b447979553298bb667aa', '1544460935', 'no'),
 (124, '_site_transient_browser_85ea41d9d708b447979553298bb667aa', 'a:10:{s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:13:\"70.0.3538.110\";s:8:\"platform\";s:9:\"Macintosh\";s:10:\"update_url\";s:29:\"https://www.google.com/chrome\";s:7:\"img_src\";s:43:\"http://s.w.org/images/browsers/chrome.png?1\";s:11:\"img_src_ssl\";s:44:\"https://s.w.org/images/browsers/chrome.png?1\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}', 'no'),
-(126, '_site_transient_timeout_community-events-d41d8cd98f00b204e9800998ecf8427e', '1543905925', 'no'),
+(126, '_site_transient_timeout_community-events-d41d8cd98f00b204e9800998ecf8427e', '1543911414', 'no'),
 (127, '_site_transient_community-events-d41d8cd98f00b204e9800998ecf8427e', 'a:2:{s:8:\"location\";a:1:{s:2:\"ip\";b:0;}s:6:\"events\";a:0:{}}', 'no'),
 (128, 'can_compress_scripts', '1', 'no'),
 (129, '_transient_timeout_feed_ac0b00fe65abe10e0c5b588f3ed8c7ca', '1543899336', 'no');
@@ -249,8 +249,8 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (198, '_site_transient_timeout_theme_roots', '1543862184', 'no'),
 (199, '_site_transient_theme_roots', 'a:4:{s:13:\"twentyfifteen\";s:7:\"/themes\";s:15:\"twentyseventeen\";s:7:\"/themes\";s:19:\"twentysixteen-child\";s:7:\"/themes\";s:13:\"twentysixteen\";s:7:\"/themes\";}', 'no'),
 (202, 'theme_mods_twentysixteen-child', 'a:6:{i:0;b:0;s:18:\"nav_menu_locations\";a:0:{}s:18:\"custom_css_post_id\";i:45;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1543861456;s:4:\"data\";a:4:{s:19:\"wp_inactive_widgets\";a:0:{}s:9:\"sidebar-1\";a:2:{i:0;s:14:\"recent-posts-2\";i:1;s:12:\"categories-2\";}s:9:\"sidebar-2\";a:0:{}s:9:\"sidebar-3\";a:0:{}}}s:12:\"header_image\";s:64:\"http://localhost:8888/wp-content/uploads/2018/12/headerImage.png\";s:17:\"header_image_data\";O:8:\"stdClass\":5:{s:13:\"attachment_id\";i:8;s:3:\"url\";s:64:\"http://localhost:8888/wp-content/uploads/2018/12/headerImage.png\";s:13:\"thumbnail_url\";s:64:\"http://localhost:8888/wp-content/uploads/2018/12/headerImage.png\";s:6:\"height\";i:280;s:5:\"width\";i:1200;}}', 'yes'),
-(224, '_transient_is_multi_author', '0', 'yes'),
-(225, '_transient_twentysixteen_categories', '2', 'yes');
+(229, '_transient_is_multi_author', '0', 'yes'),
+(230, '_transient_twentysixteen_categories', '2', 'yes');
 
 -- --------------------------------------------------------
 
@@ -334,7 +334,9 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (102, 44, '_wp_trash_meta_status', 'publish'),
 (103, 44, '_wp_trash_meta_time', '1543862381'),
 (104, 47, '_wp_trash_meta_status', 'publish'),
-(105, 47, '_wp_trash_meta_time', '1543862722');
+(105, 47, '_wp_trash_meta_time', '1543862722'),
+(106, 49, '_edit_lock', '1543868254:1'),
+(107, 49, '_edit_last', '1');
 
 -- --------------------------------------------------------
 
@@ -420,7 +422,8 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (45, 1, '2018-12-03 18:39:41', '2018-12-03 18:39:41', '', 'twentysixteen-child', '', 'publish', 'closed', 'closed', '', 'twentysixteen-child', '', '', '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 0, 'http://localhost:8888/twentysixteen-child/', 0, 'custom_css', '', 0),
 (46, 1, '2018-12-03 18:39:41', '2018-12-03 18:39:41', '.entry-footer a {\n    display: none;\n}', 'twentysixteen-child', '', 'inherit', 'closed', 'closed', '', '45-revision-v1', '', '', '2018-12-03 18:39:41', '2018-12-03 18:39:41', '', 45, 'http://localhost:8888/45-revision-v1/', 0, 'revision', '', 0),
 (47, 1, '2018-12-03 18:45:22', '2018-12-03 18:45:22', '{\n    \"custom_css[twentysixteen-child]\": {\n        \"value\": \"\",\n        \"type\": \"custom_css\",\n        \"user_id\": 1,\n        \"date_modified_gmt\": \"2018-12-03 18:45:22\"\n    }\n}', '', '', 'trash', 'closed', 'closed', '', '195b46fc-af01-48fd-9597-ed217d72dbf8', '', '', '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 0, 'http://localhost:8888/195b46fc-af01-48fd-9597-ed217d72dbf8/', 0, 'customize_changeset', '', 0),
-(48, 1, '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 'twentysixteen-child', '', 'inherit', 'closed', 'closed', '', '45-revision-v1', '', '', '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 45, 'http://localhost:8888/45-revision-v1/', 0, 'revision', '', 0);
+(48, 1, '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 'twentysixteen-child', '', 'inherit', 'closed', 'closed', '', '45-revision-v1', '', '', '2018-12-03 18:45:22', '2018-12-03 18:45:22', '', 45, 'http://localhost:8888/45-revision-v1/', 0, 'revision', '', 0),
+(49, 1, '2018-12-03 20:17:34', '0000-00-00 00:00:00', '', 'Beautiful Data', '', 'draft', 'closed', 'closed', '', '', '', '', '2018-12-03 20:17:34', '2018-12-03 20:17:34', '', 0, 'http://localhost:8888/?page_id=49', 0, 'page', '', 0);
 
 -- --------------------------------------------------------
 
@@ -715,19 +718,19 @@ ALTER TABLE `wp_links`
 -- AUTO_INCREMENT for table `wp_options`
 --
 ALTER TABLE `wp_options`
-  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=228;
+  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=231;
 
 --
 -- AUTO_INCREMENT for table `wp_postmeta`
 --
 ALTER TABLE `wp_postmeta`
-  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=106;
+  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=108;
 
 --
 -- AUTO_INCREMENT for table `wp_posts`
 --
 ALTER TABLE `wp_posts`
-  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=49;
+  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50;
 
 --
 -- AUTO_INCREMENT for table `wp_termmeta`
